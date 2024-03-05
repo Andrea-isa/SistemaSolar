@@ -1,0 +1,1 @@
+Proyecto de jME3 en el cual se muestra un sistema solar. Cada planeta tiene diferente orbitas circulare, misma que deben recorrer a diferente velocidad, al mismo tiempo que los planetas van rotando sobre su propio eje.
